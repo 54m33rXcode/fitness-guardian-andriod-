@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fitnessguardian">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FitnessGuardian">
+        <activity
+            android:name=".UserListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Remainder"
+            android:exported="false" />
+        <activity
+            android:name=".DrawerBase"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Bmi"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulderex5"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulderex4"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulderex3"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulderex2"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulderex1"
+            android:exported="false" />
+        <activity
+            android:name=".Legex5"
+            android:exported="false" />
+        <activity
+            android:name=".Legex4"
+            android:exported="false" />
+        <activity
+            android:name=".Legex3"
+            android:exported="false" />
+        <activity
+            android:name=".Legex2"
+            android:exported="false" />
+        <activity
+            android:name=".Legex1"
+            android:exported="false" />
+        <activity
+            android:name=".Abex5"
+            android:exported="false" />
+        <activity
+            android:name=".Abex4"
+            android:exported="false" />
+        <activity
+            android:name=".Abex3"
+            android:exported="false" />
+        <activity
+            android:name=".Abex2"
+            android:exported="false" />
+        <activity
+            android:name=".Abex1"
+            android:exported="false" />
+        <activity
+            android:name=".Chestex5"
+            android:exported="false" />
+        <activity
+            android:name=".Chestex4"
+            android:exported="false" />
+        <activity
+            android:name=".Chestex3"
+            android:exported="false" />
+        <activity
+            android:name=".Chestex2"
+            android:exported="false" />
+        <activity
+            android:name=".Chestex1"
+            android:exported="false" />
+        <activity
+            android:name=".Leg"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".Abs"
+            android:exported="false" />
+        <activity
+            android:name=".Chest"
+            android:exported="false" />
+        <activity
+            android:name=".Exercise"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Logout"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".AlarmReceiver" />
+    </application>
+
+</manifest>

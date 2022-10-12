@@ -1,0 +1,365 @@
+<resources>
+    <string name="app_name">Fitness Guardian</string>
+
+    <string name="spidermanStep"><u><b>STEPS:</b></u>\n
+        Assume a standard push-up position with legs straight, hands below shoulders on the ground and arms straight.\n
+         Begin to lower body down by bending at the elbows, as you lower down lift your right foot off the ground and rotate your leg so that your knee is bent and the inside of your leg is facing the ground.\n
+         Then raise your knee to your elbow all in one motion.\n
+         Push back up and reverse leg movement back to starting position. This completes one rep.\n
+    </string>
+    <string name="kneeStep"><u><b>STEPS:</b></u>\n
+
+        Step1:Kneel on the floor.\n
+        step2:Extend arms and put hands shoulder-width apart on the floor in front of you.\n
+        step3:Tighten abs while you bend arms, lowering your torso until chest grazes the  floor.\n
+        step4:Push torso back up by straightening arms. Slow and steady, baby.\n
+        step5:Rinse and repeat.
+    </string>
+    <string name="pushStep"><u><b>STEPS:</b></u>\n
+        Get down on all fours, placing your hands slightly wider than your shoulders.\n
+         Straighten your arms and legs.\n
+         Lower your body until your chest nearly touches the floor.\n
+         Pause, then push yourself back up.\n
+         Repeat.
+
+    </string>
+    <string name="inclinedStep"><u><b>STEPS:</b></u>\n
+        Place your hands on the edge of the elevated surface.\n
+        Step your feet back so your legs are straight and your arms are perpendicular to your body.\n
+        Inhale as you slowly lower your chest to the edge of your platform.\n
+        Pause for a second.\n
+        Repeat.\n
+    </string>
+    <string name="declineStep"><u><b>STEPS:</b></u>\n
+
+         Place your feet on a bench or a raised platform and get into the push-up position with your hands slightly wider than shoulder-width apart.\n
+         With your feet on the bench and your arms holding your body up, begin exercise by lowering yourself down to the ground while keeping your entire body in a straight line.\n
+         Lower your chest as close to the ground as you can \n
+         pause, then push yourself back up to starting position. \n
+         Repeat.
+
+    </string>
+
+    <string name="AbdominalStep"><u><b>STEPS:</b></u>\n
+
+         Lie on your back with your knees bent and feet flat on the floor, hip-width apart.\n
+         Place your hands behind your head so your thumbs are behind your ears,Don’t lace your fingers together.\n
+         Hold your elbows out to the sides but rounded slightly in.\n
+         Tilt your chin slightly, leaving a few inches of space between your chin and your chest.Gently pull your abdominal inward.\n
+         Curl up and forward so that your head, neck, and shoulder blades lift off the floor.\n
+         Hold for a moment at the top of the movement and then lower slowly back down.\n
+
+    </string>
+    <string name="bicycleStep"><u><b>STEPS:</b></u>\n
+
+         Lie flat on the floor with your lower back pressed to the ground (pull your navel in toalso target your deep abs).\n
+         Put your hands behind your head, then bring your knees in towards your chest and lift your shoulder blades off the ground, but be sure not to pull on your neck. \n
+         Straighten your right leg out to about a 45-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee. Make sure your rib cage is moving and not just your elbows.\n
+         Now switch sides and do the same motion on the other side to complete one rep.\n
+         Repeat.
+
+    </string>
+    <string name="mountainStep"><u><b>STEPS:</b></u>\n
+
+         Put both hands and knees on the floor.\n
+         Place your right foot near your right hand and extend your left leg behind you. \n
+         In one smooth motion, switch your legs, keeping your arms in the same position.\n
+         Switch your legs back and forth twice, such that your right leg is again close to your right hand. \n
+        Repeat.
+
+    </string>
+    <string name="vStep"><u><b>STEPS:</b></u>
+          Put both hands and knees on the floor.\n
+         Place your right foot near your right hand and extend your left leg behind you. \n
+         In one smooth motion, switch your legs, keeping your arms in the same position.\n
+         Switch your legs back and forth twice, such that your right leg is again close to your right hand. \n
+        Repeat.
+    </string>
+    <string name="crossoverStep"><u><b>STEPS:</b></u>\n
+
+         With your head off the mat, touch your fingers to your temples. Rest one foot on the opposite knee.\n
+         Contract your abs to lift your shoulders off the mat.\n
+         Don’t pull on your neck.\n
+         Twist your torso so your elbow moves to meet your knee.\n
+         Reverse the move slowly back to the start.\n
+
+    </string>
+
+    <string name="reversePushupStep"><u><b>STEPS:</b></u>\n
+         Start with your body straight and your arms bent, holding yourself an inch or two off the floor,like the halfway point of a regular pushup.\n
+         Push your buttocks upward and backward toward your feet, making sure your knees don’t touch the floor. \n
+         Keep your hands flat on the floor, so that at the end of the move, your arms are extended straight in front of you.\n
+         Return to the starting position. \n
+         Repeat.
+
+    </string>
+    <string name="reverseGripPushupStep"><u><b>STEPS:</b></u>\n
+        Get down into a press-up position with your hands placed so your fingers are pointing towards your toes. \n
+         Lower your body until your chest is an inch from the ground then explosively drive up by fully extending your arms. \n
+         keep your core tight \n
+         widened your hand as wide as your shoulder width \n
+         Repeat.
+
+    </string>
+    <string name="pikePushupStep"><u><b>STEPS:</b></u>\n
+         Assume a pushup position on the floor. Your arms should be straight and your hands should be shoulder-width apart. \n
+         Now lift up your hips so that your body forms an upside down V. Your legs and arms should stay as straight as possible. \n
+        Bend your elbows and lower your upper body until the top of your head nearly touches the floor. \n
+         Pause, and then push yourself back up until your arms are straight.\n
+        Repeat.\n
+
+    </string>
+    <string name="supinePushupStep"><u><b>STEPS:</b></u>\n
+        Lay down with your back flat on the floor. \n
+        Feet also flat on the floor and your knees pointed up towards the ceiling.\n
+         Arms are out to your side even with shoulder height. \n
+         Push up on your elbows and raise your upper back up off the ground. \n
+         Lower your upper back down to the floor.\n
+         Repeat.
+
+    </string>
+    <string name="driverPushupStep"><u><b>STEPS:</b></u>
+
+         Start with your hands and feet on the ground. \n
+         With your feet spread and your butt up in the air. \n
+         Lower your chest to the ground in a dip motion, followed by your butt. Pretend as if you were going under a rope 6-8 inches off of the ground. \n
+         Lock your arms out on the other side of the imaginary rope while keeping your butt still low to the ground. \n
+        Lower your chest to the ground and return back to starting position without touching the imaginary rope.\n
+        Repeat.
+
+    </string>
+
+    <string name="squatStep"><u><b>STEPS:</b></u>\n
+
+         Stand with your feet shoulder-width apart and your toes pointed forward.\n
+        Keep your chest up and make sure not to tilt your head down. Pull your navel in toward your spine to engage your core. \n
+         Bend at the hips and knees while keeping your heels and toes on the floor. \n
+        Slowly sit back into a squat position with your chest up, your shoulders back and abs in. \n
+         Straighten your legs by pressing into your heels to stand back up. Squeeze your glutes at the top, tilting your pelvis forward.\n
+
+    </string>
+    <string name="jumpSquatStep"><u><b>STEPS:</b></u>\n
+
+         Stand with feet shoulder width and knees slightly bent.\n
+         Bend your knees and descend to a full squat position. \n
+         Engage through the quads, glute,and hamstrings and propel the body up and off the floor,extending through the legs and jump.\n
+         Descend and control your landing by going through your foot (toes, ball, arches, heel) and descend into the squat again for another explosive jump. \n
+         Upon landing immediately repeat the next jump. \n
+
+    </string>
+    <string name="lungesStep"><u><b>STEPS:</b></u>\n
+        Stand with your feet hip-width apart, keep your back straight, your shoulders back, and your abs tight. \n
+         Take a step forward and slowly bend both knees, until your back knee is just above the floor. \n
+         Stand back up and repeat the movement. \n
+        Alternate legs until the set is complete\n
+         Repeat.
+
+    </string>
+    <string name="reverseLungesStep"><u><b>STEPS:</b></u>\n
+
+         Stand upright, with your hands at your hips.\n
+         Take a large step backward with your left foot.\n
+         Lower your hips so that your right thigh (front leg) becomes parallel to the floor with your right knee positioned directly over your ankle.\n
+         Return to standing by pressing your right heel into the floor and bringing your left leg forward to complete one rep.\n
+         Repeat.
+
+    </string>
+    <string name="gluteBridgeStep"><u><b>STEPS:</b></u>\n
+        Lie face up on the floor, with your knees bent and feet flat on the ground.Keep your arms at your side with your palms down. \n
+       Lift your hips off the ground until your knees, hips and shoulders form a straight line. \n
+        Squeeze those glutes hard and keep your abs drawn in so you don’t overextend your back during the exercise. \n
+         Hold your bridged position for a couple of seconds before easing back down. \n
+         Repeat.
+
+    </string>
+
+
+    <string name="chest1">
+        <b>SpiderMan Push UP</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="chest2">
+        <b>Knee Push UP</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace.</br>
+    </string>
+    <string name="chest3">
+        <b>Push UP</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="chest4">
+        <b>Inclined Push UP</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="chest5">
+        <b>Side Push UP</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+
+    <string name="abs1">
+        <b>Abdominal Crunches </b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="abs2">
+        <b>Bicycle Crunches</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="abs3">
+        <b>Mountain Climber</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="abs4">
+        <b>V-Ups</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="abs5">
+        <b>Crossover Crunches</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+
+    <string name="sho1">
+        <b>Pike PushUp</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="sho2">
+        <b>Reverse Grip Push Up</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="sho3">
+        <b>Reverse Push Up</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="sho4">
+        <b>Supine Push Up</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="sho5">
+        <b>Driver Push Up</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+
+    <string name="leg1">
+        <b>Squat</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="leg2">
+        <b>Jump Squat</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="leg3">
+        <b>Lunges</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="leg4">
+        <b>Reverse Lunges</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+    <string name="leg5">
+        <b>Glute Bridge</b>
+
+       <br>perform 3 sets.</br>
+
+        <br>Repetition minimum 5 times recommended,but you can do according to your capacity.</br>
+
+        <br>Do on your own pace. </br>
+    </string>
+
+    <string name="menu_drawer_open">Drawer open</string>
+    <string name="menu_drawer_close">Drawer close</string>
+
+
+</resources>

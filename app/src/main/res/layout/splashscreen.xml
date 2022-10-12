@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imgbg"
+    tools:context=".Splashscreen">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="135dp"
+        android:layout_height="135dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="95dp"
+        android:layout_marginTop="259dp"
+        android:layout_marginEnd="105dp"
+        android:src="@drawable/sure" />
+
+    <TextView
+        android:id="@+id/appName"
+        android:layout_width="403dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="100dp"
+        android:paddingStart="72dp"
+        android:text="FITNESS GUARDIAN"
+        android:textColor="#6076EF"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

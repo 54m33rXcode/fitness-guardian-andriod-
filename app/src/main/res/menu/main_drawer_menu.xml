@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_exercise"
+            android:icon="@drawable/ic_exercisen"
+            android:title="Exercise"/>
+
+        <item android:id="@+id/nav_bmi"
+            android:icon="@drawable/ic_calculator"
+            android:title="BMI calculator"/>
+
+        <item android:id="@+id/nav_remainder"
+            android:icon="@drawable/ic_alarm"
+            android:title="Remainder"/>
+
+        <item android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="My Dashboard"/>
+
+        <item android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout"/>
+    </group>
+</menu>

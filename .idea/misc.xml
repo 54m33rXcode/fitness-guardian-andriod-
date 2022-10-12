@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/btn.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_alarm.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_calculator.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_dashboard.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_exercise.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_exercisen.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/ic_weighing_scale1.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/drawable/side_nav_bar.xml" value="0.129" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/abdominal_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/abex1.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/abex2.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/abex3.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/abex4.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/abex5.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/abs.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/activity_chestex3.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/activity_remainder.xml" value="0.14" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/activity_user_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/bicycle_layout.xml" value="0.1" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/bmi.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/chest.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/chestex1.xml" value="0.33" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/chestex2.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/chestex3.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/chestex4.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/chestex5.xml" value="0.2" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/congo_dialog.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/content_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/crossover_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/dashboard.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/decline_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/drawer_base.xml" value="0.33" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/driver_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/edit_user_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/exercise.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/glutesbridge_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/grip_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/incline_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/jumpsquat_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/knee_dialog.xml" value="0.22" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/leg.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/legex1.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/legex2.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/legex3.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/legex4.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/legex5.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/login.xml" value="0.20416666666666666" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/lunges_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/main_drawer_header.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/mountain_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/pike_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/push_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/register.xml" value="0.20416666666666666" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/reverse_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/reverselunges_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/shoulder.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/shoulderex1.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/shoulderex2.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/shoulderex3.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/shoulderex4.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/shoulderex5.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/spiderman_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/splashscreen.xml" value="0.22" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/squat_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/supine_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/users_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/layout/vup_layout.xml" value="0.17119565217391305" />
+        <entry key="..\:/android_cloz_project/FitnessGuardian/app/src/main/res/menu/main_drawer_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
